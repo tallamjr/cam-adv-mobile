@@ -1,6 +1,131 @@
 # Advanced Topics in Mobile and Sensor Systems and Data Modelling
 
+## 2019
+
+[webpage](https://www.cl.cam.ac.uk/teaching/1920/R249/materials.html)
+
+#### System, Energy and Security.
+
+Naser Al Duaij, Alexander Van't Hof, and Jason Nieh. 2019. Heterogeneous Multi-Mobile Computing. In
+Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and
+Services (MobiSys '19). ACM, New York, NY, USA.
+[PDF](http://www.cs.columbia.edu/~alduaij/pubs/tc-cucs-008-16.pdf).
+
+Huan Feng, Kassem Fawaz, and Kang G. Shin. 2017. Continuous Authentication for Voice Assistants. In
+Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking (MobiCom
+'17). ACM, New York, NY, USA.
+[PDF](https://rtcl.eecs.umich.edu/wordpress/wp-content/uploads/continuous-authentication-voice.pdf).
+
+Jaewon Choi, HyeonJung Park, Jeongyeup Paek, Rajesh Krishna Balan, and JeongGil Ko. 2019. LpGL:
+Low-power Graphics Library for Mobile AR Headsets. In Proceedings of the 17th Annual International
+Conference on Mobile Systems, Applications, and Services (MobiSys '19). ACM, New York, NY, USA. [PDF](http://nsl.cau.ac.kr/~jpaek/docs/lpgl-mobisys2019.pdf).
+
+#### Activity Recognition with Machine Learning and Mobile Sensor Data.
+
+Hyeokhyen Kwon, Gregory D. Abowd, and Thomas Ploetz. 2019. Handling annotation uncertainty in human
+activity recognition. In Proceedings of the 23rd International Symposium on Wearable Computers (ISWC
+'19). ACM, New York, NY, USA. [PDF](https://dl.acm.org/citation.cfm?id=3347744).
+
+Aaqib Saeed, Tanir Ozcelebi, and Johan Lukkien. 2019. Multi-task Self-Supervised Learning for Human
+Activity Detection. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 2, Article 61 (June
+2019). [PDF](https://arxiv.org/pdf/1907.11879.pdf).
+
+Ming Zeng, Haoxiang Gao, Tong Yu, Ole J. Mengshoel, Helge Langseth, Ian Lane, and Xiaobing Liu.
+2018. Understanding and improving recurrent networks for human activity recognition by continuous
+attention. In Proceedings of the 2018 ACM International Symposium on Wearable Computers (ISWC '18).
+ACM, New York, NY, USA. [PDF](https://arxiv.org/pdf/1810.04038.pdf).
+
+#### On Device Machine Learning.
+
+Kusupati, Aditya and Singh, Manish and Bhatia, Kush and Kumar, Ashish and Jain, Prateek and Varma,
+Manik. FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network. In
+Advances in Neural Information Processing Systems 31 (NIPS 2018).
+[PDF](http://papers.nips.cc/paper/8116-fastgrnn-a-fast-accurate-stable-and-tiny-kilobyte-sized-gated-recurrent-neural-network.pdf).
+
+Biyi Fang, Xiao Zeng, and Mi Zhang. 2018. NestDNN: Resource-Aware Multi-Tenant On-Device Deep
+Learning for Continuous Mobile Vision. In Proceedings of the 24th Annual International Conference on
+Mobile Computing and Networking (MobiCom '18). ACM, New York, NY, USA.
+[PDF](https://arxiv.org/pdf/1810.10090.pdf).
+
+Shuochao Yao, Yiran Zhao, Huajie Shao, Aston Zhang, Chao Zhang, Shen Li, and Tarek Abdelzaher. 2018.
+RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations. Proc. ACM Interact.
+Mob. Wearable Ubiquitous Technol. Volume 1 Issue 4. 2018 [PDF](https://arxiv.org/pdf/1709.02980.pdf).
+
+#### Backscatter Communication, Battery Free and Energy Harvesting Devices.
+
+Nivedita Arora, Steven L. Zhang, Fereshteh Shahmiri, Diego Osorio, Yi-Cheng Wang, Mohit Gupta,
+Zhengjun Wang, Thad Starner, Zhong Lin Wang, and Gregory D. Abowd. 2018. SATURN: A Thin and Flexible
+Self-powered Microphone Leveraging Triboelectric Nanogenerator. Proc. ACM Interact. Mob. Wearable
+Ubiquitous Technol. 2, 2, Article 60 (July 2018).
+[PDF](http://www.nanoscience.gatech.edu/paper/2018/18_JACM_01.pdf).
+
+Seulki Lee, and Shahriar Nirjon. Neuro.ZERO: A Zero-Energy Neural Network Accelerator for Embedded
+Sensing and Inference Systems. In the 17th ACM Conference on Embedded Networked Sensor Systems
+(SenSys '19), 12 pg, November 2019. New York, NY.
+[PDF](https://www.cl.cam.ac.uk/teaching/1920/R249/sensys19-neuro.pdf).
+
+Junsu Jang and Fadel Adib. 2019. Underwater backscatter networking. In Proceedings of the ACM
+Special Interest Group on Data Communication (SIGCOMM '19). ACM, New York, NY, USA, 187-199.
+[PDF](http://www.mit.edu/~fadel/papers/PAB-paper.pdf).
+
+#### New Sensing Modalities.
+
+Ke Sun, Ting Zhao, Wei Wang, and Lei Xie. 2018. VSkin: Sensing Touch Gestures on Surfaces of Mobile
+Devices Using Acoustic Signals. In Proceedings of the 24th Annual International Conference on Mobile
+Computing and Networking (MobiCom '18). ACM, New York, NY, USA.
+[PDF](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf).
+
+hichao Yue and Dina Katabi. 2019. Liquid Testing with Your Smartphone. In Proceedings of the 17th
+Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '19). ACM,
+New York, NY, USA. [PDF](http://people.csail.mit.edu/scyue/projects/capcam/data/capcam.pdf).
+
+Ali Kiaghadi, Morgan Baima, Jeremy Gummeson, Trisha Andrew, and Deepak Ganesan. 2018. Fabric as a
+Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles. In Proceedings of
+the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys '18), Gowri Sankar Ramachandran
+and Bhaskar Krishnamachari (Eds.). ACM, New York, NY, USA.
+[PDF](https://welab.umass.edu/SenSys18-Tribo.pdf).
+
+#### Urban Mobility and Human Mobility Modelling.
+
+Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, and Depeng Jin. 2018. DeepMove:
+Predicting Human Mobility with Attentional Recurrent Networks. In Proceedings of the 2018 World Wide
+Web Conference (WWW '18). International World Wide Web Conferences Steering Committee, Geneva,
+Switzerland. [PDF](http://chaozhang.org/papers/2018-www-mobility.pdf).
+
+Zidong Yang, Ji Hu, Yuanchao Shu, Peng Cheng, Jiming Chen, and Thomas Moscibroda. 2016. Mobility
+Modeling and Prediction in Bike-Sharing Systems. In Proceedings of the 14th Annual International
+Conference on Mobile Systems, Applications, and Services (MobiSys '16). ACM, New York, NY, USA. [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf).
+
+Zhang, Junbo and Zheng, Yu and Qi, Dekang and Li, Ruiyuan and Yi, Xiuwen and Li, Tianrui. Predicting
+citywide crowd flows using deep spatio-temporal residual networks. Artificial Intelligence. 2018. V.
+258. Pages 147--166. [PDF](https://arxiv.org/pdf/1701.02543.pdf).
+
+#### Mobile Health.
+
+Chen-Yu Hsu, Aayush Ahuja, Shichao Yue, Rumen Hristov, Zachary Kabelac, and Dina Katabi. 2017.
+Zero-Effort In-Home Sleep and Insomnia Monitoring using Radio Signals. Proc. ACM Interact. Mob.
+Wearable Ubiquitous Technol. 1, 3, Article 59 (September 2017).
+[PDF](https://people.csail.mit.edu/cyhsu/papers/ezsleep_ubicomp17.pdf).
+
+Nam Bui, Nhat Pham, Jessica Jacqueline Barnitz, Phuc Nguyen, Hoang Truong, Taeho Kim, Anh Nguyen,
+Zhanan Zou, Nicholas Farrow, Jianliang Xiao, Robin Deterding, Thang Dinh, Tam Vu. eBP: A Wearable
+System For Frequent and Comfortable Blood Pressure Monitoring From User’s Ear. Proc. ACM
+International Conference on Mobile Computing and Networking (Mobicom '19). ACM, New York, NY, USA.
+[PDF](https://www.cl.cam.ac.uk/teaching/1920/R249/mobicom19-eBP.pdf).
+
+Bhanu Teja Gullapalli, Annamalai Natarajan, Gustavo A. Angarita, Robert T. Malison, Deepak Ganesan,
+and Tauhidur Rahman. 2019. On-body Sensing of Cocaine Craving, Euphoria and Drug-Seeking Behavior
+Using Cardiac and Respiratory Signals. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 2,
+Article 46 (June 2019). [PDF](http://www.cs.umass.edu/~dganesan/papers/Ubicomp19-Craving.pdf).
+
+Hanbin Zhang, Chen Song, Aosen Wang, Chenhan Xu, Dongmei Li, and Wenyao Xu. 2019. PDVocal: Towards
+Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds. In The 25th Annual
+International Conference on Mobile Computing and Networking (MobiCom '19).
+[PDF](https://sctracy.github.io/chensong.github.io/pdf/mobicom19.pdf).
+
 ## 2018
+
+[webpage](https://www.cl.cam.ac.uk/teaching/1819/R249/materials.html)
 
 #### MobileOS, Resource, Privacy and Energy.
 
@@ -117,3 +242,4 @@ Large-scale physical activity data reveal worldwide activity inequality. Nature,
 
 Cristina Kadar, Irena Pletikosa. Mining large-scale human mobility data for long-term crime
 prediction. EPJ Data Science20187:26 [Paper Link](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0150-z)
+
